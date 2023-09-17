@@ -1,3 +1,5 @@
+import age from './data.js'
+
 export default function Cart() {
   return (
     <div>
@@ -5,7 +7,7 @@ export default function Cart() {
       <CartItem></CartItem>
 	  <CartItem></CartItem>
 	  <CartItem></CartItem>
-      
+      {age}
     </div>
   )
 }
