@@ -1,4 +1,6 @@
 export default function List() {
+	let 상품 = ['Tomatoes', 'Pasta', 'Coconut']
+	
 	let name = 'paasrk'
   return (
     <div>
