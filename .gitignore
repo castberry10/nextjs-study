@@ -3,6 +3,7 @@
 ## aws ssh
 a.sh
 goormkey.pem
+goorm.manifest
 
 ### NextJS ###
 # dependencies
